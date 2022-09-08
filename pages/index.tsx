@@ -14,16 +14,13 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
           
-      
 
       <main className={styles.main}>
-            <video loop autoPlay muted className= {styles.videofundo}>
-              <source  src='/video-fundo.webm' type='video/webm'/>
-            </video> 
+      
             
   
       <div className={styles.image}/>
-        <h1 className={styles.title}>``
+        <h1 className={styles.title}>
           João Vitor A. Smerecki.
         </h1>
 
