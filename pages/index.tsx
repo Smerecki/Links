@@ -23,7 +23,7 @@ const Home: NextPage = () => {
             
   
       <div className={styles.image}/>
-        <h1 className={styles.title}>
+        <h1 className={styles.title}>``
           João Vitor A. Smerecki.
         </h1>
 
