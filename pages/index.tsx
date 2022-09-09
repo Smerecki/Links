@@ -45,7 +45,7 @@ const Home: NextPage = () => {
             target="_blank" rel="noopener noreferrer"
           >
             <h2>Linkedin <i className="icon-linkedin-sign"></i></h2>
-            <p>conheça um pouco mais sobre mim.</p>
+            <p> conheça um pouco mais sobre mim.</p>
           </a>
 
           <a
