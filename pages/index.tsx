@@ -62,10 +62,9 @@ const Home: NextPage = () => {
             className={styles.card}
             target="_blank" rel="noopener noreferrer"
           >
-            <h2>Meu GitHub <i className='icon-github'></i>
-</h2>
+            <h2>Meu GitHub <i className='icon-github'></i> </h2>
             <p>
-              Me acompanhe no GitHub
+              Me acompanhe no GitHub.
             </p>
           </a>
         </div>
