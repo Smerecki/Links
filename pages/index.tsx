@@ -63,7 +63,7 @@ const Home: NextPage = () => {
           >
             <h2>Meu GitHub &rarr;</h2>
             <p>
-              Me acompanhe GitHub
+              Me acompanhe no GitHub
             </p>
           </a>
         </div>
