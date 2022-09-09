@@ -57,13 +57,13 @@ const Home: NextPage = () => {
           </a>
 
           <a
-            href=""
+            href="https://github.com/Smerecki"
             className={styles.card}
             target="_blank" rel="noopener noreferrer"
           >
-            <h2>Sobre mim &rarr;</h2>
+            <h2>Meu GitHub &rarr;</h2>
             <p>
-              Aqui falo um pouco sobre minha trajetória.
+              Me acompanhe GitHub
             </p>
           </a>
         </div>
